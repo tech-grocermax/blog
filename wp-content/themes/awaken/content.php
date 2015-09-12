@@ -3,7 +3,7 @@
  * @package Awaken
  */
 ?>
-<div class="col-xs-12 col-sm-6 col-md-6">
+<div class="col-xs-12 col-sm-6 col-md-6 pad-r">
 <article id="post-<?php the_ID(); ?>" <?php post_class( 'genaral-post-item' ); ?>>
 	<?php if ( has_post_thumbnail() ) { ?>
 		<figure class="genpost-featured-image">
