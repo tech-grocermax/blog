@@ -1239,7 +1239,7 @@ a:hover, a:focus, a:active {
 .awaken-featured-container {
   clear: both;
   overflow: hidden;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .awaken-slider-container {
@@ -1606,14 +1606,14 @@ a:hover, a:focus, a:active {
 10.1 Site Main
 --------------------------------------------------------------*/
 .site-branding {
-  min-height: 135px;
+  min-height: 94px;
 }
 
 .site-title {
   font-family: 'ubuntu', sans-serif;
   font-size: 44px;
   font-weight: 500;
-  margin: 30px 0 0 20px;
+  margin: 10px 0 0 20px;
 }
 .site-title a {
   color: #fa5742;
@@ -1627,7 +1627,7 @@ a:hover, a:focus, a:active {
   color: #7e7e7e;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px;
-  margin: 0 0 30px 20px;
+  margin: 0 0 20px 20px;
 }
 
 .site-logo {
@@ -1640,7 +1640,7 @@ a:hover, a:focus, a:active {
 }
 
 .site-header {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .site-footer {
@@ -1660,7 +1660,7 @@ a:hover, a:focus, a:active {
 }
 
 .hentry {
-  margin: 0 0 4em;
+  margin: 0;
 }
 
 .byline,
@@ -2300,4 +2300,8 @@ object {
 
 .gallery-caption {
   display: block;
+}
+
+.padd0{
+  padding: 0px;
 }
