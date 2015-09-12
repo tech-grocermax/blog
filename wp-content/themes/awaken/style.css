@@ -2302,6 +2302,6 @@ object {
   display: block;
 }
 
-.padd0{
-  padding: 0px;
+.pad-r{
+  padding-right: 0px;
 }
